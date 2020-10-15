@@ -145,3 +145,17 @@
     background: #fff;
     padding: 10px margin 15px;
 }
+
+div {
+    color: black;
+    text-size-adjust: 30px;
+    text-align: center;
+}
+
+
+/* header */
+
+a {
+    color: coral;
+    background-color: darkblue;
+}
